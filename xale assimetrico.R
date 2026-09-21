@@ -1,4 +1,6 @@
-#Projeto realizafo para contar quantos pontos foram necessários para fazer o xalé assimétrico 
+A receita original desse projeto é do canal NobleKnits, How to Knit a Triangle Shawl for Beginners | 4 Easy Steps!
+
+#Projeto realizado para contar quantos pontos foram necessários para fazer o xalé assimétrico 
 # 1 etapa - Perceber que a recerita é uma progressão aritmética que cresce 1 ponto a cada 2 carreiras
 
 x <- 223 # n de carreiras 
